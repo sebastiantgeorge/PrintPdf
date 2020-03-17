@@ -1,0 +1,17 @@
+{
+  "name": "com.rits.printpdf",
+  "version": "0.0.1",
+  "description": "Plugin for silent printing of pdf file",
+  "cordova": {
+    "id": "com.rits.printpdf",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Sebastian George",
+  "license": "ISC"
+}
